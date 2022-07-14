@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start-Case1": "npx nodemon ./Case1/Case1.js",
+    "dev-Case1": "npx tsc ./Case1/Case1.ts --watch",
+    "start-Case2": "npx nodemon ./Case2/Case2.js",
+    "dev-Case2": "npx tsc ./Case2/Case2.ts --watch"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "typescript": "^4.7.4"
+  }
+}
